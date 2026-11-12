@@ -5,8 +5,8 @@
       "id": "turnkey_e_blend_id8",
       "kind": "app",
       "title": "TurnKey E Blend",
-      "description": "Розрахунок доливу бензину й E85 у літрах. Ручне введення.",
-      "version": "0.1.0",
+      "description": "Calculate how much petrol and E85 to add, in litres. Enter fuel values manually.",
+      "version": "0.1.1",
       "mguHmi": [
         "ID8"
       ],
@@ -16,10 +16,10 @@
         "mgu-deploy": "0.7.0"
       },
       "artifact": {
-        "name": "turnkey_e_blend_id8@0.1.0.tgz",
-        "size": 20860,
-        "sha256": "5317ab18674d4cfc09341d96119d10d9920cdeceb9bbd40be8a35f64c325911b",
-        "url": "https://raw.githubusercontent.com/vecyoroleg-lgtm/turnkey-e-blend-id8/main/turnkey_e_blend_id8%400.1.0.tgz"
+        "name": "turnkey_e_blend_id8@0.1.1.tgz",
+        "size": 20485,
+        "sha256": "0fe8f4b66adc3c2be76aa7ff6b2ab7a16bb0ef10b9136c549bf7fa9b8a7b80e6",
+        "url": "https://raw.githubusercontent.com/vecyoroleg-lgtm/turnkey-e-blend-id8/main/turnkey_e_blend_id8%400.1.1.tgz"
       }
     }
   ]
